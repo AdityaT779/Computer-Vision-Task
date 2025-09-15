@@ -1,6 +1,7 @@
 # Computer-Vision-Task
 
-Overview
+**Overview :
+**
 This project involves building a neural network model to classify handwritten digits from the MNIST grayscale image dataset. The focus was on understanding data loading, preprocessing, model architecture design, training, and result interpretation.
 
 Dataset Understanding
